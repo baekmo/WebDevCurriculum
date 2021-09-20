@@ -1,4 +1,4 @@
-# Anser 01. HTML과 웹의 기초
+# Answer 01. HTML과 웹의 기초
 
 ### **HTML(Hyper Text Markup Language)**   
 <pre>웹 브라우저에 내용을 표시하기 위한 가장 기본적인 언어</pre>
